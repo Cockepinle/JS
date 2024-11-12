@@ -1,0 +1,60 @@
+body{
+    overflow-x: hidden;
+}
+
+.text1{
+    font-size:200%;
+    color:white;
+}
+.header{
+    background: rgb(55, 201, 55);
+}
+.btn-yellow {
+    background-color: yellow;
+    padding: 1px 1px;
+    height: 100%;
+    font-size: 15px;
+    width: fit-content;
+}
+.text2{
+    color:white;
+    font-size:150%;
+}
+.text3{
+    font-size:150%;
+}
+.top{
+    padding-top: 3%;
+}
+.sizee{
+    width: 100px;
+    height: 100px;
+}
+.black{
+    border-color: black;
+    color: black;
+    opacity: 1;
+}
+.text4{
+    font-size:150%;
+    padding-top: 3%;
+    font-weight: bold;
+}
+.text5{
+    font-size:150%;
+    padding-top: 3%;
+}
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+.tree{
+    width: 100px;
+    height: fit-content;
+    margin-left: -5px;
+}
+.buttons{
+    float: right;
+}
+
+
